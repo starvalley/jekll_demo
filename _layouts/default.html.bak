@@ -4,15 +4,15 @@
 
 <head>
 
-¡¡¡¡<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+ã€€ã€€<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-¡¡¡¡<title>{{ page.title }}</title>
+ã€€ã€€<title>{{ page.title }}</title>
 
 </head>
 
 <body>
 
-¡¡¡¡{{ content }}
+ã€€ã€€{{ content }}
 
 </body>
 
