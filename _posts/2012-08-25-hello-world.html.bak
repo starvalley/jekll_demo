@@ -1,11 +1,11 @@
 ---
 layout: default
-title: ä½ å¥½ï¼Œä¸–ç•Œ
+title: ÄãºÃ£¬ÊÀ½ç
 ---
 
 <h2>{{ page.title }}</h2>
 
-<p>æˆ‘çš„ç¬¬2ç¯‡æ–‡ç« </p>
+<p>ÎÒµÄµÚ2ÆªÎÄÕÂ</p>
 
 <p>{{ page.date | date_to_string }}</p>
 
